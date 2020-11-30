@@ -12,4 +12,4 @@ public class Character
 		this.name = name;
 		this.health = health;
 	}
-	
+}	
