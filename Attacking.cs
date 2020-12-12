@@ -3,8 +3,8 @@ public class Attack
 	public void Attacking()
 	{
 		//Create Characters/Mobs
-		Character c1 = new Character("Lolia", 150);
-		Monster m1 = new Monster("Gargantua", 150);
+		Character c1 = new Character("Taia", 150);
+		Monster m1 = new Monster("Mutated Sol", 150);
 
 		for( int i = 0; i < 10; i++)
 		{
